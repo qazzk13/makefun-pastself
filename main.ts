@@ -7,7 +7,7 @@ import { join } from "node:path";
 
 const LINES = [
   "Don't lend your brother the car keys on the night of Mei's wedding just because he swears he's fine to drive.",
-  "He wasn't, the fence still leans, and you spent two years being polite about it at every family dinner.",
+  "He drove it into the fence on the way home, and you spent two years being polite about the lean at every family dinner.",
 ];
 const TEXT = LINES.join("\n");
 
